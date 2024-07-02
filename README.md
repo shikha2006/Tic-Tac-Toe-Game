@@ -2,6 +2,17 @@
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
+##Author
+
+||** Tranning project (Batch-2)**
+
+|| -**Shikha Tripathi**
+   - Roll Number: 23071003604
+  | - **Saumya Dixit**
+   - Roll Number: 23071003586
+ |  - **Shafquat Umam**
+   - Roll Number: 23071003593
+
 Available Scripts
 In the project directory, you can run:
 
